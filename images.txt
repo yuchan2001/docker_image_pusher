@@ -1,2 +1,1 @@
-xiaoyaliu/alist
-alist-tvbox
+cupsd olbat/cupsd
