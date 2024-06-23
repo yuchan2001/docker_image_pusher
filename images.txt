@@ -1,1 +1,1 @@
-cupsd olbat/cupsd
+cupsd
