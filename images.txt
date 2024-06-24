@@ -1,1 +1,1 @@
-cupsd
+haroldli/xiaoya-tvbox:latest
