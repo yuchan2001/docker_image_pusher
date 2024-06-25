@@ -1,1 +1,2 @@
 haroldli/xiaoya-tvbox:latest
+olbat/cupsd:latest
