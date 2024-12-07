@@ -1,3 +1,4 @@
 haroldli/xiaoya-tvbox:latest
 olbat/cupsd:latest
 guovern/iptv-api:latest
+registry:latest
