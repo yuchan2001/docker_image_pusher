@@ -3,3 +3,4 @@ olbat/cupsd:latest
 guovern/iptv-api:latest
 registry:latest
 xhofe/alist-aria2:latest
+keking/kkfileview:latest
