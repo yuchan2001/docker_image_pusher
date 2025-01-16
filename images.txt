@@ -5,4 +5,4 @@ registry:latest
 xhofe/alist-aria2:latest
 keking/kkfileview:latest
 xhofe/alist:latest
-onlyoffice:7.2
+kenlk/onlyoffice:7.2
