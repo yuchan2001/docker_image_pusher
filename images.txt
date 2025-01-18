@@ -6,3 +6,4 @@ xhofe/alist-aria2:latest
 keking/kkfileview:latest
 xhofe/alist:latest
 kenlk/onlyoffice:latest
+guovern/iptv-api:lite
