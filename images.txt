@@ -7,3 +7,4 @@ keking/kkfileview:latest
 xhofe/alist:latest
 kenlk/onlyoffice:latest
 guovern/iptv-api:lite
+ydkn/cups
