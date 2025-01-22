@@ -4,6 +4,5 @@ guovern/iptv-api:latest
 registry:latest
 xhofe/alist-aria2:latest
 keking/kkfileview:latest
-xhofe/alist:latest
 kenlk/onlyoffice:latest
-docker.1ms.run/guovern/iptv-api:lite
+docker.1ms.run/guovern/iptv-api
