@@ -2,7 +2,6 @@ haroldli/xiaoya-tvbox:latest
 olbat/cupsd:latest
 guovern/iptv-api:latest
 registry:latest
-xhofe/alist-aria2:latest
 keking/kkfileview:latest
 kenlk/onlyoffice:latest
 docker.1ms.run/guovern/iptv-api
