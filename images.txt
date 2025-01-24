@@ -5,3 +5,4 @@ registry:latest
 keking/kkfileview:latest
 kenlk/onlyoffice:latest
 docker.1ms.run/guovern/iptv-api
+rickyeq/windows-xp
