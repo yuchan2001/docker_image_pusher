@@ -5,3 +5,4 @@ registry:latest
 keking/kkfileview:latest
 kenlk/onlyoffice:latest
 syncthing/syncthing:latest
+weejewel/wg-easy
